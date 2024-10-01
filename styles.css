@@ -82,6 +82,8 @@ p {
 .grid-element {
     background-color: #182b49;
     max-height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
     overflow: scroll;
 }
 
